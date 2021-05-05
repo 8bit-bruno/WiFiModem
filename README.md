@@ -1,4 +1,4 @@
- # Wifi RS232 Modem
+ # Simple Wifi RS232 Modem
 
 The ‘Simple’ Wifi Modem it’s a device to connect a computer with an RS232 serial port to a telnet BBS. It does not use an analog phone line but internet through a wifi connection. Behaves like a Hayes dial-up modem, and it is designed and built for old computers; i use it with my first computer ever (still working!): a Sinclair Zx Spectrum and, being myself a retro-collector, also with a lot of other different machines (you can read about my collection on [www.museo-computer.it](https://www.museo-computer.it/).
 My idea was to create a device with the same look and feel of a real modem: a lot of big, flashing, red LEDs and only a few SMD components.
